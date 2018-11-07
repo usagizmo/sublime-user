@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_face": "ricty diminished",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"theme": "Adaptive.sublime-theme",
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}

@@ -1,0 +1,10 @@
+{
+	"disabled_keymap_actions": "expand_abbreviation, match_pair_outward, balance_outward",
+	"snippets": {
+		"html": {
+			"snippets": {
+				"!": "<!doctype html>\n<html lang=\"ja\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\n  <title>$1</title>\n  <meta name=\"description\" content=\"\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n  <link rel=\"stylesheet\" href=\"libs/reset.min.css\">\n  <link rel=\"stylesheet\" href=\"style.css\">\n</head>\n<body>\n  <p>Hello world!</p>\n  <script src=\"libs/jquery.min.js\"></script>\n  <script src=\"script.js\"></script>\n</body>\n</html>"
+			}
+		}
+	},
+}

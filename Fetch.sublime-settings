@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"anime.min.js (v2.2.0)": "https://cdn.jsdelivr.net/npm/animejs@2.2.0/anime.min.js",
+		"html5shiv": "https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js",
+		"jQuery 1 (for IE8)": "https://code.jquery.com/jquery-1.12.4.min.js",
+		"jQuery 3 (IE9+)": "https://code.jquery.com/jquery-3.3.1.min.js",
+		"picturefill.min.js": "https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"Clipboard Diff",
+		"EasyMotion",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Increment Selection",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SideBarEnhancements",
+		"Smart Delete",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Super Calculator",
+		"Terminal",
+		"TypeScript"
+	]
+}
