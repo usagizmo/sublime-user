@@ -6,24 +6,37 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"ApacheConf",
 		"AutoFileName",
 		"Block Cursor Everywhere",
 		"BracketHighlighter",
+		"Case Conversion",
 		"Clipboard Diff",
+		"CursorRuler",
+		"Dockerfile Syntax Highlighting",
 		"EasyMotion",
 		"EditorConfig",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"Goto-CSS-Declaration",
 		"Increment Selection",
+		"Markdown Extended",
+		"Marked App Menu",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Pretty JSON",
+		"Pug",
+		"Sass",
 		"SideBarEnhancements",
 		"Smart Delete",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"Super Calculator",
 		"Terminal",
-		"TypeScript"
+		"TrailingSpaces",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"WakaTime"
 	]
 }
